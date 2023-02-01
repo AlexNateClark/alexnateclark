@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning REACT and APIs 
 - 👯 I’m looking to collaborate on any type of open source projects 
 - 📫 How to reach me: alexnateclark@gmail.com | www.linkedin.com/in/alex-clark-nate | https://twitter.com/Alex_Nate_Clark
-- ⚡ Fun fact: Apex Legends for life! Highest rank I've made it to was Diamond 3 and I will destroy anyone you know 💪!
+
 -->
 <!--
 <table>
