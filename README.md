@@ -1,7 +1,7 @@
 
 
 - 🔭 I’m currently working on a personal website project for food ordering and delivery  
-- 🌱 I’m currently learning REACT and APIs 
+- 🌱 I’m currently learning how to implement APIs 
 - 👯 I’m looking to collaborate on any type of open source projects 
 - 📫 How to reach me: alexnateclark@gmail.com | www.linkedin.com/in/alex-clark-nate | https://twitter.com/Alex_Nate_Clark
 
@@ -35,7 +35,7 @@
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working on learning REACT 
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working on a real-time Weather App  
 - Working on a personal project to enchance the websites UI and front-end capabilities. 
 - Developing personal profiles 
 ```yaml
