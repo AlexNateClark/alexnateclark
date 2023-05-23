@@ -1,9 +1,9 @@
 
 
-- 🔭 I’m currently working on a personal website project for food ordering and delivery  
-- 🌱 I’m currently learning how to implement APIs 
+- 🔭 I’m currently working on a project for real-time weather forcast!   
+- 🌱 I’m currently learning how to implement APIs  
 - 👯 I’m looking to collaborate on any type of open source projects 
-- 📫 How to reach me: alexnateclark@gmail.com | www.linkedin.com/in/alex-clark-nate | https://twitter.com/Alex_Nate_Clark
+- 📫 How to reach me: alexnateclark@gmail.com | www.linkedin.com/in/alex-clark-nate | https://twitter.com/Alex_Nate_Clark | check out my personal portfolio @ https://www.alexnclark.com
 
 -->
 <!--
